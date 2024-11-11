@@ -1,4 +1,5 @@
 import Testing
+@testable import VehiclePurchase
 
 struct TaskCanIBuyTests {
   @Test func testCanBuy() async throws{
